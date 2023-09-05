@@ -4,21 +4,26 @@
 #### The three-dimensional weakly supervised deep learning algorithm for traumatic splenic injury detection and sequential localization: experimental study
 C. T. Cheng, H. S. Lin, C. P. Hsu, H. W. Chen, J. F. Huang, C. Y. Fu, C. H. Hsieh, C. N. Yeh, I F. Chung, C. H. Liao
 
+
 ### 2022    STAR Protocol
 #### Generating Transcriptional Regulatory Networks from Time-ordered Stem Cell Differentiation RNA Sequencing Data
 Y. S. Tsai, Y. M. Chang, Y. M. Lim, S. K. Cheong, I F. Chung*, and Chee-Yin Wong*
+
 
 ### 2021  The Journal of Biological Databases and Curation
 #### LncExplore: a Database of Pan-cancer Analysis and Systematic Functional Annotation for LncRNAs from RNA Sequencing Data
 Y. W. Lee, M. Chen, I F. Chung*, and T. Y. Chang*
 
+
 ### 2021    Diagnostics
 ##### Comparison of Genetic Profiling between Primary Tumor and Circulating Tumor Cells Captured by Microfluidics in Epithelial Ovarian Cancer: Tumor Heterogeneity or Allele Dropout?
 T. Y. Chang, S. W. Chen, W. H. Lin, C. E. Huang, M. I. Evans, I F. Chung, J. W. Wu, G. C. Ma, and M. Chen
 
+
 ### 2020  Insights into Imaging
 ##### Artificial Intelligence-based Education Assists Medical Students’ Interpretation of Hip Fracture
 C. T. Cheng, C. C. Chen, C. Y. Fu, C. H. Chaou, Y. T. Wu, C. P. Hsu, C. C. Chang, I F. Chung, C. H. Hsieh, M. J. Hsieh, and C. H. Liao
+
 
 ### 2020 JMIR Medical Informatics
 ##### A Human-Algorithm Integration System for Hip Fracture Detection on Plain Radiography: System Development and Validation Study
