@@ -5,12 +5,14 @@
 C. T. Cheng, H. S. Lin, C. P. Hsu, H. W. Chen, J. F. Huang, C. Y. Fu, C. H. Hsieh, C. N. Yeh, **I F. Chung**, C. H. Liao
 <br>
 <br>
-### 2022    STAR Protocol
+## 2022
+###     STAR Protocol
 #### Generating Transcriptional Regulatory Networks from Time-ordered Stem Cell Differentiation RNA Sequencing Data
 Y. S. Tsai, Y. M. Chang, Y. M. Lim, S. K. Cheong, **I F. Chung**, and Chee-Yin Wong*
 <br>
 <br>
-### 2021  The Journal of Biological Databases and Curation
+## 2021
+### The Journal of Biological Databases and Curation
 #### LncExplore: a Database of Pan-cancer Analysis and Systematic Functional Annotation for LncRNAs from RNA Sequencing Data
 Y. W. Lee, M. Chen, **I F. Chung**, and T. Y. Chang*
 <br>
