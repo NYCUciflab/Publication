@@ -60,8 +60,19 @@ C. T. Cheng, T. Y. Ho, T. Y. Lee, C. C. Chang, C. C. Chou, C. C. Chen, **I F. Ch
 R. H. Hsu, W. L. Hwu, M. Chen, **I F. Chung**, S. F. Peng, C. Y. Chen, W. C. Cheng, Y. H. Chien, and N. C. Lee
 <br>
 <br>
-
-
+### 2018 BioMed Research International
+#### Identifying the Growth Factors for Improving Neointestinal Regeneration in Rats through Transcriptome Analysis Using RNA-Seq Data
+S. C. Jwo#, **I F. Chung**, H. W. Wang, and T. Y. Chang
+<br>
+<br>
+### 2018 IEEE Transactions on Fuzzy Systems
+#### Feature Selection with Controlled Redundancy in a Fuzzy Rule Based Framework
+**I F. Chung**, Y. C. Chen, and N. R. Pal
+<br>
+<br>
+### 2017 Scientific Reports
+#### Airway Microbial Diversity is Inversely Associated with Mite-Sensitized Rhinitis and Asthma in Early Childhood
+C. Y. Chiu#, Y. L. Chan, Y. S. Tsai, S. A. Chen, C. J. Wang, K. F. Chen, and **I F. Chung**
 
 
 
