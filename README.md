@@ -10,13 +10,11 @@ Y. S. Tsai, Y. M. Chang, Y. M. Lim, S. K. Cheong, **I F. Chung**, and Chee-Yin W
 <br>
 <br>
 ## 2021
-### The Journal of Biological Databases and Curation
-#### LncExplore: a Database of Pan-cancer Analysis and Systematic Functional Annotation for LncRNAs from RNA Sequencing Data
+#### LncExplore: a Database of Pan-cancer Analysis and Systematic Functional Annotation for LncRNAs from RNA Sequencing Data, The Journal of Biological Databases and Curation.
 Y. W. Lee, M. Chen, **I F. Chung**, and T. Y. Chang*
 <br>
 <br>
-### Diagnostics
-#### Comparison of Genetic Profiling between Primary Tumor and Circulating Tumor Cells Captured by Microfluidics in Epithelial Ovarian Cancer: Tumor Heterogeneity or Allele Dropout?
+#### Comparison of Genetic Profiling between Primary Tumor and Circulating Tumor Cells Captured by Microfluidics in Epithelial Ovarian Cancer: Tumor Heterogeneity or Allele Dropout?, Diagnostics.
 T. Y. Chang, S. W. Chen, W. H. Lin, C. E. Huang, M. I. Evans, **I F. Chung**, J. W. Wu, G. C. Ma, and M. Chen
 <br>
 <br>
