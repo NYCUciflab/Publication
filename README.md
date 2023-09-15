@@ -1,12 +1,11 @@
 # Publication
 ## 2023
-#### The three-dimensional weakly supervised deep learning algorithm for traumatic splenic injury detection and sequential localization: experimental study,   International Journal of Surgery
+#### The three-dimensional weakly supervised deep learning algorithm for traumatic splenic injury detection and sequential localization: experimental study, International Journal of Surgery.
 C. T. Cheng, H. S. Lin, C. P. Hsu, H. W. Chen, J. F. Huang, C. Y. Fu, C. H. Hsieh, C. N. Yeh, **I F. Chung**, C. H. Liao.
 <br>
 <br>
 ## 2022
-###     STAR Protocol
-#### Generating Transcriptional Regulatory Networks from Time-ordered Stem Cell Differentiation RNA Sequencing Data
+#### Generating Transcriptional Regulatory Networks from Time-ordered Stem Cell Differentiation RNA Sequencing Data, STAR Protocol.
 Y. S. Tsai, Y. M. Chang, Y. M. Lim, S. K. Cheong, **I F. Chung**, and Chee-Yin Wong*
 <br>
 <br>
