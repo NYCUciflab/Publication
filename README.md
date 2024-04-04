@@ -1,6 +1,6 @@
 # Publication
 ## 2023
-#### The three-dimensional weakly supervised deep learning algorithm for traumatic splenic injury detection and sequential localization: experimental study, International Journal of Surgery.
+#### [The three-dimensional weakly supervised deep learning algorithm for traumatic splenic injury detection and sequential localization: experimental study, International Journal of Surgery.](https://pubmed.ncbi.nlm.nih.gov/36999810/)
 C. T. Cheng, H. S. Lin, C. P. Hsu, H. W. Chen, J. F. Huang, C. Y. Fu, C. H. Hsieh, C. N. Yeh, **I F. Chung**, C. H. Liao.
 <br>
 <br>
